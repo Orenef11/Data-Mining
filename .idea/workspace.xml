@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e2d508e-df8c-4aa7-b974-0d821fb03089" name="Default" comment="" />
+    <list default="true" id="0e2d508e-df8c-4aa7-b974-0d821fb03089" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/All annotations.csv" afterPath="$PROJECT_DIR$/All annotations.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hits_data.csv" afterPath="$PROJECT_DIR$/Hits_data.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Temporary csv file for analysis/Shuffle rows data.csv" afterPath="$PROJECT_DIR$/Temporary csv file for analysis/Shuffle rows data.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Temporary csv file for analysis/statistic_analysis.csv" afterPath="$PROJECT_DIR$/Temporary csv file for analysis/statistic_analysis.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Temporary csv file for analysis/sub_csv_temp.csv" afterPath="$PROJECT_DIR$/Temporary csv file for analysis/sub_csv_temp.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/create_hits_csv.py" afterPath="$PROJECT_DIR$/create_hits_csv.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,34 +24,15 @@
       <file leaf-file-name="create_hits_csv.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/create_hits_csv.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="104" column="95" lean-forward="false" selection-start-line="104" selection-start-column="95" selection-end-line="104" selection-end-column="95" />
+            <state relative-caret-position="476">
+              <caret line="116" column="4" lean-forward="true" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="4" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
-                <element signature="e#719#2616#0" expanded="false" />
-                <element signature="e#2744#4578#0" expanded="false" />
-                <element signature="e#5763#6587#0" expanded="false" />
+                <element signature="e#446#533#0" expanded="false" />
+                <element signature="e#744#2641#0" expanded="false" />
+                <element signature="e#2769#4603#0" expanded="false" />
+                <element signature="e#4718#5678#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
-        <entry file="file://D:/Anaconda3/Lib/site-packages/pandas/core/indexes/base.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="2391" column="0" lean-forward="false" selection-start-line="2391" selection-start-column="0" selection-end-line="2391" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="frame.py" pinned="false" current-in-tab="false">
-        <entry file="file://D:/Anaconda3/Lib/site-packages/pandas/core/frame.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="495" column="0" lean-forward="false" selection-start-line="495" selection-start-column="0" selection-end-line="495" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -75,6 +65,9 @@
       <replace>ALL_DATA_ANNOTATIONS_PATH</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -83,9 +76,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="734" />
-    <option name="height" value="867" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -102,7 +96,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -118,6 +111,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -257,19 +251,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="734" height="867" extended-state="0" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25667655" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19340974" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3270525" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833788" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4010767" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295129" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -303,17 +297,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#719#2616#0" expanded="false" />
-            <element signature="e#2744#4578#0" expanded="false" />
-            <element signature="e#5763#6587#0" expanded="false" />
+            <element signature="e#446#533#0" expanded="false" />
+            <element signature="e#744#2641#0" expanded="false" />
+            <element signature="e#2769#4603#0" expanded="false" />
+            <element signature="e#4718#5678#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/AIDS_FULL_FILE_tagged.csv">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="125" lean-forward="false" selection-start-line="0" selection-start-column="116" selection-end-line="0" selection-end-column="125" />
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -324,93 +319,107 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#719#2616#0" expanded="false" />
-            <element signature="e#2744#4578#0" expanded="false" />
-            <element signature="e#5763#6587#0" expanded="false" />
+            <element signature="e#446#533#0" expanded="false" />
+            <element signature="e#744#2641#0" expanded="false" />
+            <element signature="e#2769#4603#0" expanded="false" />
+            <element signature="e#4718#5678#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/AIDS_FULL_FILE_tagged.csv">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="125" lean-forward="false" selection-start-line="0" selection-start-column="116" selection-end-line="0" selection-end-column="125" />
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/create_hits_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#446#533#0" expanded="false" />
+            <element signature="e#744#2641#0" expanded="false" />
+            <element signature="e#2769#4603#0" expanded="false" />
+            <element signature="e#4718#5678#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/AIDS_FULL_FILE_tagged.csv" />
+    <entry file="file://$PROJECT_DIR$/create_hits_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#446#533#0" expanded="false" />
+            <element signature="e#744#2641#0" expanded="false" />
+            <element signature="e#2769#4603#0" expanded="false" />
+            <element signature="e#4718#5678#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/AIDS_FULL_FILE_tagged.csv" />
     <entry file="file://$PROJECT_DIR$/create_hits_csv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1173">
           <caret line="69" column="57" lean-forward="false" selection-start-line="69" selection-start-column="57" selection-end-line="69" selection-end-column="57" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#719#2616#0" expanded="false" />
-            <element signature="e#2744#4578#0" expanded="false" />
-            <element signature="e#5763#6587#0" expanded="false" />
+            <element signature="e#446#533#0" expanded="false" />
+            <element signature="e#744#2641#0" expanded="false" />
+            <element signature="e#2769#4603#0" expanded="false" />
+            <element signature="e#4718#5678#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/AIDS_FULL_FILE_tagged.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="125" lean-forward="false" selection-start-line="0" selection-start-column="116" selection-end-line="0" selection-end-column="125" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/AIDS_FULL_FILE_tagged.csv" />
     <entry file="file://$PROJECT_DIR$/create_hits_csv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1173">
           <caret line="69" column="57" lean-forward="false" selection-start-line="69" selection-start-column="57" selection-end-line="69" selection-end-column="57" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#719#2616#0" expanded="false" />
-            <element signature="e#2744#4578#0" expanded="false" />
-            <element signature="e#5763#6587#0" expanded="false" />
+            <element signature="e#446#533#0" expanded="false" />
+            <element signature="e#744#2641#0" expanded="false" />
+            <element signature="e#2769#4603#0" expanded="false" />
+            <element signature="e#4718#5678#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/AIDS_FULL_FILE_tagged.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="125" lean-forward="false" selection-start-line="0" selection-start-column="116" selection-end-line="0" selection-end-column="125" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/AIDS_FULL_FILE_tagged.csv" />
     <entry file="file://$PROJECT_DIR$/create_hits_csv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#719#2616#0" expanded="false" />
-            <element signature="e#2744#4578#0" expanded="false" />
-            <element signature="e#5763#6587#0" expanded="false" />
+            <element signature="e#446#533#0" expanded="false" />
+            <element signature="e#744#2641#0" expanded="false" />
+            <element signature="e#2769#4603#0" expanded="false" />
+            <element signature="e#4718#5678#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/AIDS_FULL_FILE_tagged.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="125" lean-forward="false" selection-start-line="0" selection-start-column="116" selection-end-line="0" selection-end-column="125" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/AIDS_FULL_FILE_tagged.csv" />
     <entry file="file://$PROJECT_DIR$/create_hits_csv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#719#2616#0" expanded="false" />
-            <element signature="e#2744#4578#0" expanded="false" />
-            <element signature="e#5763#6587#0" expanded="false" />
+            <element signature="e#446#533#0" expanded="false" />
+            <element signature="e#744#2641#0" expanded="false" />
+            <element signature="e#2769#4603#0" expanded="false" />
+            <element signature="e#4718#5678#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -421,9 +430,10 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#719#2616#0" expanded="false" />
-            <element signature="e#2744#4578#0" expanded="false" />
-            <element signature="e#5763#6587#0" expanded="false" />
+            <element signature="e#446#533#0" expanded="false" />
+            <element signature="e#744#2641#0" expanded="false" />
+            <element signature="e#2769#4603#0" expanded="false" />
+            <element signature="e#4718#5678#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -441,9 +451,10 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#719#2616#0" expanded="false" />
-            <element signature="e#2744#4578#0" expanded="false" />
-            <element signature="e#5763#6587#0" expanded="false" />
+            <element signature="e#446#533#0" expanded="false" />
+            <element signature="e#744#2641#0" expanded="false" />
+            <element signature="e#2769#4603#0" expanded="false" />
+            <element signature="e#4718#5678#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -455,14 +466,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/AIDS_FULL_FILE_tagged.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="125" lean-forward="false" selection-start-line="0" selection-start-column="116" selection-end-line="0" selection-end-column="125" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/AIDS_FULL_FILE_tagged.csv" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -475,43 +479,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Anaconda3/Lib/site-packages/pandas/io/common.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="381" column="0" lean-forward="false" selection-start-line="381" selection-start-column="0" selection-end-line="381" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda3/Lib/site-packages/pandas/core/frame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="495" column="0" lean-forward="false" selection-start-line="495" selection-start-column="0" selection-end-line="495" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda3/Lib/site-packages/pandas/core/indexes/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="2391" column="0" lean-forward="false" selection-start-line="2391" selection-start-column="0" selection-end-line="2391" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/pandas/io/common.py" />
+    <entry file="file://D:/Anaconda3/Lib/site-packages/pandas/core/frame.py" />
+    <entry file="file://D:/Anaconda3/Lib/site-packages/pandas/core/indexes/base.py" />
     <entry file="file://$PROJECT_DIR$/create_hits_csv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="104" column="95" lean-forward="false" selection-start-line="104" selection-start-column="95" selection-end-line="104" selection-end-column="95" />
+        <state relative-caret-position="476">
+          <caret line="116" column="4" lean-forward="true" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="4" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#719#2616#0" expanded="false" />
-            <element signature="e#2744#4578#0" expanded="false" />
-            <element signature="e#5763#6587#0" expanded="false" />
+            <element signature="e#446#533#0" expanded="false" />
+            <element signature="e#744#2641#0" expanded="false" />
+            <element signature="e#2769#4603#0" expanded="false" />
+            <element signature="e#4718#5678#0" expanded="false" />
           </folding>
         </state>
       </provider>

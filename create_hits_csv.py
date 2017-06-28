@@ -11,7 +11,7 @@ TEMP_FOLDER = 'Temporary csv file for analysis'
 
 
 class HitsCSV(object):
-    def __init__(self, csv_path):
+    def __init__(self, csv_path, save_to_file_flag=False):
         self.__raw_data = read_csv(csv_path)
         self.__csv_headers = list(self.__raw_data)
 

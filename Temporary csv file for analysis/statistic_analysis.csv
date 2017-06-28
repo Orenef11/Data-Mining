@@ -1,34 +1,34 @@
 disease,talk_about,amount of tweets
 ,,
 Asthma,,325 / 932
-Asthma,dont_know,0 / 932
-Asthma,celebrity,0 / 932
-Asthma,celeb,48 / 932
 Asthma,subject,0 / 932
-Asthma,knows,54 / 932
+Asthma,dont_know,0 / 932
 Asthma,himself,485 / 932
 Asthma,family,20 / 932
-Asthma,none,0 / 932
+Asthma,celebrity,0 / 932
 Asthma,don't know,0 / 932
+Asthma,celeb,48 / 932
+Asthma,knows,54 / 932
+Asthma,none,0 / 932
 ,,
 HIV,,0 / 614
-HIV,dont_know,79 / 614
-HIV,celebrity,0 / 614
-HIV,celeb,175 / 614
 HIV,subject,234 / 614
-HIV,knows,0 / 614
+HIV,dont_know,79 / 614
 HIV,himself,88 / 614
 HIV,family,6 / 614
-HIV,none,32 / 614
+HIV,celebrity,0 / 614
 HIV,don't know,0 / 614
+HIV,celeb,175 / 614
+HIV,knows,0 / 614
+HIV,none,32 / 614
 ,,
 Fibromyalgia,,0 / 228
-Fibromyalgia,dont_know,0 / 228
-Fibromyalgia,celebrity,1 / 228
-Fibromyalgia,celeb,0 / 228
 Fibromyalgia,subject,95 / 228
-Fibromyalgia,knows,4 / 228
+Fibromyalgia,dont_know,0 / 228
 Fibromyalgia,himself,106 / 228
 Fibromyalgia,family,1 / 228
-Fibromyalgia,none,0 / 228
+Fibromyalgia,celebrity,1 / 228
 Fibromyalgia,don't know,21 / 228
+Fibromyalgia,celeb,0 / 228
+Fibromyalgia,knows,4 / 228
+Fibromyalgia,none,0 / 228
